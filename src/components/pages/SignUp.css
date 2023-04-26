@@ -1,0 +1,40 @@
+.container {
+    width: 600px;
+    min-height: 400px;
+    background-color: lightgray;
+    margin: 50px auto;
+    
+  }
+  
+  h2 {
+    text-align: center;
+    
+    
+  }
+  label {
+    margin-left: 50px;
+    margin-right: 20px;
+  }
+  input[type="text"],
+      input[type="email"],
+      input[type="password"],
+      input[type="number"],
+      input[type="date"] {
+        width: 300px;
+        height: 30px;
+        border: 0px;
+        outline: 0px;
+        border-radius: 30px;
+        border: 2px solid ;
+        margin-bottom: 20px;
+      }
+      input[type="submit"],
+      input[type="reset"] {
+        margin: 20px 90px;
+        color: white;
+        background-color: blue;
+        width: 100px;
+        height: 40px;
+        font-size: 20px;
+        
+      }

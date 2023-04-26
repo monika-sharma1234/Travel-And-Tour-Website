@@ -52,7 +52,7 @@ function Navbar() {
                                 className="nav-links" 
                                 onClick={closeMobileMenu}
                             >
-                                Products
+                                Contact Us
                             </Link>
                         </li>
                         <li className="nav-item">
