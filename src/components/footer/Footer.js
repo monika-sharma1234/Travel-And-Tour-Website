@@ -29,18 +29,19 @@ function Footer() {
           <div className='footer-link-wrapper'>
             <div class='footer-link-items'>
               <h2>About Us</h2>
-              <Link to='/sign-up'>How it works</Link>
-              <Link to='/'>Testimonials</Link>
-              <Link to='/'>Careers</Link>
-              <Link to='/'>Investors</Link>
-              <Link to='/'>Terms of Service</Link>
+              
+              <Link to='https://www.youtube.com/watch?v=pfITiSF0mQc'>Testimonials</Link>
+              <Link to='https://www.youtube.com/watch?v=h7o2xydLkxg'>Careers</Link>
+              <Link to='https://www.youtube.com/watch?v=WsSA2lVHm1U'>Investors</Link>
+              <Link to='https://www.youtube.com/watch?v=kQa40dvhamk'>Terms of Service</Link>
             </div>
             <div class='footer-link-items'>
               <h2>Contact Us</h2>
-              <Link to='/'>Contact</Link>
-              <Link to='/'>Support</Link>
-              <Link to='/'>Destinations</Link>
-              <Link to='/'>Sponsorships</Link>
+              
+              <address > <Link to='/'>A-17 Kadamb Vihar ranchi bangar Mathura,281006</Link>
+              
+              
+        </address>
             </div>
           </div>
           <div className='footer-link-wrapper'>
@@ -56,7 +57,7 @@ function Footer() {
               <Link to='https://www.instagram.com/monika_sharma0803'>Instagram</Link>
               <Link to='https://github.com/monika-sharma1234'>Github</Link>
               <Link to='https://www.linkedin.com/in/monika-sharma-a69190219'>LinkedIn</Link>
-              <Link to='/'>Twitter</Link>
+             
             </div>
           </div>
         </div>
