@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Travel-and-Tour-Website/static/css/main.6db65ab4.css",
-    "main.js": "/Travel-and-Tour-Website/static/js/main.fc04801d.js",
-    "static/media/video-2.mp4": "/Travel-and-Tour-Website/static/media/video-2.39e6c79bffb375ae929a.mp4",
-    "static/media/img-2.jpg": "/Travel-and-Tour-Website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-4.jpg": "/Travel-and-Tour-Website/static/media/img-4.a31875b76d39f6458a6e.jpg",
-    "static/media/img-3.jpg": "/Travel-and-Tour-Website/static/media/img-3.6d683c0ee6824af7961a.jpg",
-    "static/media/img-1.jpg": "/Travel-and-Tour-Website/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-9.jpg": "/Travel-and-Tour-Website/static/media/img-9.f97f588f3670715d01b2.jpg",
-    "static/media/img-8.jpg": "/Travel-and-Tour-Website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/Travel-and-Tour-Website/index.html",
-    "main.6db65ab4.css.map": "/Travel-and-Tour-Website/static/css/main.6db65ab4.css.map",
-    "main.fc04801d.js.map": "/Travel-and-Tour-Website/static/js/main.fc04801d.js.map"
+    "main.css": "/Travel-And-Tour-Website/static/css/main.c1ae7299.css",
+    "main.js": "/Travel-And-Tour-Website/static/js/main.0058861f.js",
+    "static/media/video-2.mp4": "/Travel-And-Tour-Website/static/media/video-2.39e6c79bffb375ae929a.mp4",
+    "static/media/img-2.jpg": "/Travel-And-Tour-Website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/Travel-And-Tour-Website/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-3.jpg": "/Travel-And-Tour-Website/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-1.jpg": "/Travel-And-Tour-Website/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-9.jpg": "/Travel-And-Tour-Website/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/img-8.jpg": "/Travel-And-Tour-Website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/Travel-And-Tour-Website/index.html",
+    "main.c1ae7299.css.map": "/Travel-And-Tour-Website/static/css/main.c1ae7299.css.map",
+    "main.0058861f.js.map": "/Travel-And-Tour-Website/static/js/main.0058861f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6db65ab4.css",
-    "static/js/main.fc04801d.js"
+    "static/css/main.c1ae7299.css",
+    "static/js/main.0058861f.js"
   ]
 }
